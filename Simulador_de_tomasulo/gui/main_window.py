@@ -12,7 +12,7 @@ import os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
 from Simulador.tomasulo_engine import TomasuloEngine
-from Tomasulo_Sim.Simulador.instrucoes import parse_mips
+from Simulador_de_tomasulo.Simulador.instrucoes import parse_mips
 
 
 COLOR_BACKGROUND = "#f5f5f5"
