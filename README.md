@@ -21,11 +21,14 @@ Antes de rodar os projetos, certifique-se de ter instalado:
 
 ---
 Estrutura do repositório
+```
 Simulador_de_tomasulo/
 ├── Exemplos/              # Alguns arquivos de teste em .ASM
 ├── gui/                   # Interface gráfica do Simulador
 ├── Simulador/             # Simulador em si junto com as instruções
 main.py
+readme
+```
 
 ## Executando o Simulador
 Executar deiratamente o arquivo main.py na pasta atravez do icone de executar no VScode
