@@ -1,8 +1,15 @@
+
 # Simulador de Tomasulo
 
 Este repositório contém o projeto do Simulador de Tomasulo
 
-- Simulador_de_tomasulo → versão principal do aplicativo com a main e 
+- Simulador_de_tomasulo → versão principal do aplicativo com a main e
+  
+# Integrantes
+- Juan Pablo Ramos de Oliveira
+- Júlia Pinheiro Roque
+- Luís Fernando Rodrigues Braga
+- Luiz Gabriel Milione Assis
 
 ---
 
